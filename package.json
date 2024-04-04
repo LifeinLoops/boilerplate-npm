@@ -9,7 +9,8 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git",
-		"author": "Jared Allen"
-	}
+		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
+		
+	},
+	"author": "Jared Allen"
 }
